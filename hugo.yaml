@@ -14,3 +14,10 @@ params:
     buttons:
       - name: 'About Me'
         url: '/about/'
+
+menu:
+  main:
+    - identifier: 'about'
+      name: 'About Me'
+      url: '/about/'
+      weight: 1
