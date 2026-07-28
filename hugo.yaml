@@ -6,11 +6,13 @@ params:
   env: production
   author: 'Poline'
   description: 'Cyber Threat Intelligence Portfolio'
-  
-  profileMode:
-    enabled: true
-    title: 'Cześć, jestem Poline 👋'
-    subtitle: 'Cyber Threat Intelligence | Disinformation & OSINT Analyst'
-    buttons:
-      - name: 'Explore Portfolio'
-        url: '#'
+  # Wyłączamy profileMode, żeby PaperMod w pełni poprawnie stylował stronę główną z pliku Markdown
+  # profileMode:
+  #   enabled: true
+
+menu:
+  main:
+    - identifier: 'about'
+      name: 'About Me'
+      url: '/'
+      weight: 1
