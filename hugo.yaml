@@ -13,11 +13,11 @@ params:
     subtitle: 'Cyber Threat Intelligence | Disinformation & OSINT Analyst'
     buttons:
       - name: 'About Me'
-        url: '/about/'
+        url: 'https://poline31.github.io/about/'
 
 menu:
   main:
     - identifier: 'about'
       name: 'About Me'
-      url: '/about/'
+      url: 'https://poline31.github.io/about/'
       weight: 1
