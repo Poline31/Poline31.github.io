@@ -1,8 +1,6 @@
 ﻿baseURL: 'https://poline31.github.io/'
 languageCode: 'en-us'
 title: 'Poline | CTI Portfolio'
-permalinks:
-  page: "/:slug.html"
 
 params:
   env: production
@@ -15,11 +13,11 @@ params:
     subtitle: 'Cyber Threat Intelligence | Disinformation & OSINT Analyst'
     buttons:
       - name: 'About Me'
-        url: '/about.html'
+        url: '/about/'
 
 menu:
   main:
     - identifier: 'about'
       name: 'About Me'
-      url: '/about.html'
+      url: '/about/'
       weight: 1
