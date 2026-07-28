@@ -6,13 +6,14 @@ params:
   env: production
   author: 'Poline'
   description: 'Cyber Threat Intelligence Portfolio'
-  # Wyłączamy profileMode, żeby PaperMod w pełni poprawnie stylował stronę główną z pliku Markdown
-  # profileMode:
-  #   enabled: true
+  # Włączamy z powrotem tryb domyślny, ale bez profileMode,
+  # dzięki czemu Hugo poprawnie załaduje arkusze stylów CSS motywu PaperMod
+  assets:
+    disableHLJS: false
 
 menu:
   main:
-    - identifier: 'about'
-      name: 'About Me'
+    - identifier: 'home'
+      name: 'Home'
       url: '/'
       weight: 1
