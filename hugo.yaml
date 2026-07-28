@@ -13,11 +13,11 @@ params:
     subtitle: 'Cyber Threat Intelligence | Disinformation & OSINT Analyst'
     buttons:
       - name: 'About Me'
-        url: '/pages/about/'
+        url: '/about/'
 
 menu:
   main:
     - identifier: 'about'
       name: 'About Me'
-      url: '/pages/about/'
+      url: '/about/'
       weight: 1
