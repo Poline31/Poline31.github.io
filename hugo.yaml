@@ -6,10 +6,15 @@ params:
   env: production
   author: 'Poline'
   description: 'Cyber Threat Intelligence Portfolio'
-  # Włączamy z powrotem tryb domyślny, ale bez profileMode,
-  # dzięki czemu Hugo poprawnie załaduje arkusze stylów CSS motywu PaperMod
-  assets:
-    disableHLJS: false
+  
+  profileMode:
+    enabled: true
+    title: 'Cześć, jestem Poline 👋'
+    subtitle: 'Security, Disinformation & OSINT Analyst | Aspiring CTI Professional.<br><br>Uncovering digital threats, tracking threat actors, and transforming raw data into structured, reliable intelligence for strategic defense.<br><br><b>What I Do:</b><br>• Cyber Threat Intelligence (Campaigns, TTPs, Risk)<br>• OSINT & Digital Footprint Investigations<br>• Disinformation Analysis & Narrative Tracking'
+    imageUrl: ""
+    buttons:
+      - name: 'Explore Skills & Tools'
+        url: '#skills'
 
 menu:
   main:
