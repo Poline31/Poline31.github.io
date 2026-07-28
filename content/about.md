@@ -1,7 +1,8 @@
----
-title: "About Me"
+﻿---
+title: 'About Me'
 date: 2026-07-29T12:35:05+02:00
 draft: false
+url: '/about/'
 ---
 
 ### Hello! 👋 I'm Poline
