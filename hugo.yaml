@@ -1,5 +1,5 @@
 ﻿baseURL: 'https://poline31.github.io/'
-locale: 'en-us'
+languageCode: 'en-us'
 title: 'Poline | CTI Portfolio'
 
 params:
