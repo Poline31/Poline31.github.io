@@ -2,7 +2,7 @@
 languageCode: 'en-us'
 title: 'Poline | CTI Portfolio'
 permalinks:
-  page: "/:slug/"
+  page: "/:slug.html"
 
 params:
   env: production
@@ -15,11 +15,11 @@ params:
     subtitle: 'Cyber Threat Intelligence | Disinformation & OSINT Analyst'
     buttons:
       - name: 'About Me'
-        url: '/about/'
+        url: '/about.html'
 
 menu:
   main:
     - identifier: 'about'
       name: 'About Me'
-      url: '/about/'
+      url: '/about.html'
       weight: 1
