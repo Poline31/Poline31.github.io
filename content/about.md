@@ -17,7 +17,7 @@ In today's digital landscape, the volume of data is overwhelming, but actionable
 
 ### Skills & Tools
 * **Analysis & Frameworks:** MITRE ATT&CK, threat modeling, structured analytic techniques.
-* **Tools:** OSINT frameworks, specialized intelligence gathering tools, data visualizatio (Excel, Power Bi)
+* **Tools:** OSINT frameworks, specialized intelligence gathering tools, data visualization (Excel, Power Bi)
 * **Mindset:** Curiosity-driven, analytical, and detail-oriented.
 
 ### Let's Connect
