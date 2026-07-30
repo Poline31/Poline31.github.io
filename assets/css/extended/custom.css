@@ -1,0 +1,118 @@
+/* =====================================
+   CTI Cyber Theme - PaperMod Extension
+   ===================================== */
+
+
+/* Dark background */
+
+body {
+    background: #0b1220;
+}
+
+
+/* Main container */
+
+.main {
+    max-width: 900px;
+}
+
+
+/* Typography */
+
+h1, h2, h3, h4 {
+    color: #e6f1ff;
+    letter-spacing: -0.02em;
+}
+
+
+/* Links */
+
+a {
+    color: #38bdf8;
+}
+
+a:hover {
+    color: #67e8f9;
+}
+
+
+/* Content spacing */
+
+.post-content {
+    line-height: 1.7;
+}
+
+
+/* Section headers */
+
+.post-content h2 {
+    margin-top: 45px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(56,189,248,0.25);
+}
+
+
+/* Dashboard images */
+
+.post-content img {
+    border-radius: 12px;
+    border: 1px solid rgba(56,189,248,0.25);
+    box-shadow: 0 0 25px rgba(56,189,248,0.08);
+}
+
+
+/* Buttons */
+
+.post-content a {
+    display: inline-block;
+    padding: 8px 18px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background: rgba(56,189,248,0.12);
+    border: 1px solid rgba(56,189,248,0.35);
+    text-decoration: none;
+}
+
+
+.post-content a:hover {
+    background: rgba(56,189,248,0.25);
+}
+
+
+/* Lists */
+
+.post-content li {
+    margin-bottom: 8px;
+}
+
+
+/* Code blocks */
+
+code {
+    color: #67e8f9;
+    background: rgba(15,23,42,0.8);
+}
+
+
+/* =====================================
+   Remove PaperMod heading anchor icons
+   ===================================== */
+
+.anchor,
+.heading-link,
+h1 .anchor,
+h2 .anchor,
+h3 .anchor,
+h4 .anchor {
+    display: none !important;
+}
+
+
+/* Remove underline from heading links */
+
+.post-content h1 a,
+.post-content h2 a,
+.post-content h3 a,
+.post-content h4 a {
+    text-decoration: none;
+}

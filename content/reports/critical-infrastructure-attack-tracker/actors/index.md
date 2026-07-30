@@ -2,8 +2,6 @@
 title: "Threat Actor Analysis"
 ---
 
-# Threat Actor Analysis
-
 ## Overview
 
 The project tracks threat actors associated with cyber campaigns targeting critical infrastructure and organizations across Central and Eastern Europe.

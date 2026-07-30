@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto" data-theme="auto">
+<html lang="en" dir="auto" data-theme="dark">
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,8 +7,7 @@
 <meta name="robots" content="index, follow">
 <title>Dashboard | Poline</title>
 <meta name="keywords" content="">
-<meta name="description" content="CTI Dashboard
-Overview
+<meta name="description" content="Overview
 The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.
 The dashboards analyze relationships between campaigns, threat actors, targeted regions and information operations.
 
@@ -28,7 +27,7 @@ Campaigns per Country
 Geographic distribution of tracked cyber campaigns across targeted regions.">
 <meta name="author" content="Poline">
 <link rel="canonical" href="//localhost:1313/reports/critical-infrastructure-attack-tracker/dashboard/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.89ca4972ab5e6aaa05e9a0dae0c4bb64b26585bc79e36f5cf33614eea0283abe.css" integrity="sha256-icpJcqteaqoF6aDa4MS7ZLJlhbx5429c8zYU7qAoOr4=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.78b19d08ad3502e6568c175e9fbfa387a39f43cc29b642b6d1c7558e73419cba.css" integrity="sha256-eLGdCK01AuZWjBden7&#43;jh6OfQ8wptkK20cdVjnNBnLo=" rel="preload stylesheet" as="style">
 <link rel="icon" href="//localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
@@ -45,47 +44,16 @@ Geographic distribution of tracked cyber campaigns across targeted regions.">
         }
 
     </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-                color-scheme: dark;
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .toc {
-                background: var(--entry);
-            }
-        }
-
-    </style>
 </noscript>
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else if (localStorage.getItem("pref-theme") === "light") {
-       document.querySelector("html").dataset.theme = 'light';
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.querySelector("html").dataset.theme = 'dark';
-    } else {
+    if (localStorage.getItem("pref-theme") === "light") {
         document.querySelector("html").dataset.theme = 'light';
     }
 
 </script><meta property="og:url" content="//localhost:1313/reports/critical-infrastructure-attack-tracker/dashboard/">
   <meta property="og:site_name" content="Poline">
   <meta property="og:title" content="Dashboard">
-  <meta property="og:description" content="CTI Dashboard Overview The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.
+  <meta property="og:description" content="Overview The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.
 The dashboards analyze relationships between campaigns, threat actors, targeted regions and information operations.
 Campaign Intelligence Campaign analysis focuses on identifying attack patterns and targeting trends.
 Current visualizations include:
@@ -98,7 +66,7 @@ DDoS attacks ransomware activity phishing operations disruptive campaigns Campai
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Dashboard">
-  <meta name="twitter:description" content="CTI Dashboard Overview The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.
+  <meta name="twitter:description" content="Overview The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.
 The dashboards analyze relationships between campaigns, threat actors, targeted regions and information operations.
 Campaign Intelligence Campaign analysis focuses on identifying attack patterns and targeting trends.
 Current visualizations include:
@@ -139,12 +107,12 @@ DDoS attacks ransomware activity phishing operations disruptive campaigns Campai
   "@type": "BlogPosting",
   "headline": "Dashboard",
   "name": "Dashboard",
-  "description": "CTI Dashboard Overview The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.\nThe dashboards analyze relationships between campaigns, threat actors, targeted regions and information operations.\nCampaign Intelligence Campaign analysis focuses on identifying attack patterns and targeting trends.\nCurrent visualizations include:\nAttack Types per Campaign Analysis of attack methods associated with tracked campaigns.\nExamples:\nDDoS attacks ransomware activity phishing operations disruptive campaigns Campaigns per Country Geographic distribution of tracked cyber campaigns across targeted regions.\n",
+  "description": "Overview The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.\nThe dashboards analyze relationships between campaigns, threat actors, targeted regions and information operations.\nCampaign Intelligence Campaign analysis focuses on identifying attack patterns and targeting trends.\nCurrent visualizations include:\nAttack Types per Campaign Analysis of attack methods associated with tracked campaigns.\nExamples:\nDDoS attacks ransomware activity phishing operations disruptive campaigns Campaigns per Country Geographic distribution of tracked cyber campaigns across targeted regions.\n",
   "keywords": [
     
   ],
-  "articleBody": "CTI Dashboard Overview The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.\nThe dashboards analyze relationships between campaigns, threat actors, targeted regions and information operations.\nCampaign Intelligence Campaign analysis focuses on identifying attack patterns and targeting trends.\nCurrent visualizations include:\nAttack Types per Campaign Analysis of attack methods associated with tracked campaigns.\nExamples:\nDDoS attacks ransomware activity phishing operations disruptive campaigns Campaigns per Country Geographic distribution of tracked cyber campaigns across targeted regions.\nTargeted Countries Analysis of countries affected by cyber operations.\nCurrent geographic scope:\nPoland Ukraine Lithuania Latvia Estonia Romania Threat Actor Intelligence The project tracks threat actor characteristics and operational activity.\nCurrent visualizations include:\nActors Activity per Campaign Mapping relationships between threat actors and associated campaigns.\nActor Motivation Analysis of campaign objectives and motivations, including:\nfinancial gain disruption espionage influence operations Actor Type Classification of tracked actors:\nstate-linked groups hacktivists cybercriminal groups other threat entities Threat Actor Active Since Tracking actor activity timelines and operational longevity.\nInformation Operations Intelligence The project also analyzes narratives connected with cyber campaigns.\nCurrent visualizations include:\nNarratives per X Account Tracking accounts and sources involved in spreading identified narratives.\nNarrative Types Classification of information operation themes and narratives.\nTarget Audience Analysis of intended audiences affected by specific narratives.\nNews Type Analysis Tracking types of information sources and content connected with campaigns.\nIntelligence Value The dashboard helps identify:\ncampaign trends threat actor behavior regional targeting patterns influence operation activity relationships between cyber activity and information operations Future Development Planned improvements:\nMITRE ATT\u0026CK mapping campaign timeline visualization infrastructure tracking automated data updates additional threat intelligence metrics Dashboard Preview General Overview Campaign Analysis Threat Actor Analysis Information Operations ",
-  "wordCount" : "280",
+  "articleBody": "Overview The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.\nThe dashboards analyze relationships between campaigns, threat actors, targeted regions and information operations.\nCampaign Intelligence Campaign analysis focuses on identifying attack patterns and targeting trends.\nCurrent visualizations include:\nAttack Types per Campaign Analysis of attack methods associated with tracked campaigns.\nExamples:\nDDoS attacks ransomware activity phishing operations disruptive campaigns Campaigns per Country Geographic distribution of tracked cyber campaigns across targeted regions.\nTargeted Countries Analysis of countries affected by cyber operations.\nCurrent geographic scope:\nPoland Ukraine Lithuania Latvia Estonia Romania Threat Actor Intelligence The project tracks threat actor characteristics and operational activity.\nCurrent visualizations include:\nActors Activity per Campaign Mapping relationships between threat actors and associated campaigns.\nActor Motivation Analysis of campaign objectives and motivations, including:\nfinancial gain disruption espionage influence operations Actor Type Classification of tracked actors:\nstate-linked groups hacktivists cybercriminal groups other threat entities Threat Actor Active Since Tracking actor activity timelines and operational longevity.\nInformation Operations Intelligence The project also analyzes narratives connected with cyber campaigns.\nCurrent visualizations include:\nNarratives per X Account Tracking accounts and sources involved in spreading identified narratives.\nNarrative Types Classification of information operation themes and narratives.\nTarget Audience Analysis of intended audiences affected by specific narratives.\nNews Type Analysis Tracking types of information sources and content connected with campaigns.\nIntelligence Value The dashboard helps identify:\ncampaign trends threat actor behavior regional targeting patterns influence operation activity relationships between cyber activity and information operations Future Development Planned improvements:\nMITRE ATT\u0026CK mapping campaign timeline visualization infrastructure tracking automated data updates additional threat intelligence metrics Dashboard Preview General Overview Campaign Analysis Threat Actor Analysis Information Operations ",
+  "wordCount" : "278",
   "inLanguage": "en",
   "datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
@@ -249,8 +217,7 @@ DDoS attacks ransomware activity phishing operations disruptive campaigns Campai
 
 </div>
   </header> 
-  <div class="post-content md-content"><h1 id="cti-dashboard">CTI Dashboard<a hidden class="anchor" aria-hidden="true" href="#cti-dashboard">#</a></h1>
-<h2 id="overview">Overview<a hidden class="anchor" aria-hidden="true" href="#overview">#</a></h2>
+  <div class="post-content md-content"><h2 id="overview">Overview<a hidden class="anchor" aria-hidden="true" href="#overview">#</a></h2>
 <p>The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.</p>
 <p>The dashboards analyze relationships between campaigns, threat actors, targeted regions and information operations.</p>
 <hr>

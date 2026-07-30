@@ -2,7 +2,6 @@
 title: "Research Updates"
 ---
 
-# Research Updates
 
 ## Overview
 

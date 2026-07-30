@@ -17,8 +17,18 @@
   </url><url>
     <loc>//localhost:1313/contact/</loc>
   </url><url>
+    <loc>//localhost:1313/reports/critical-infrastructure-attack-tracker/dashboard/</loc>
+  </url><url>
+    <loc>//localhost:1313/reports/critical-infrastructure-attack-tracker/methodology/</loc>
+  </url><url>
+    <loc>//localhost:1313/reports/critical-infrastructure-attack-tracker/narratives/</loc>
+  </url><url>
+    <loc>//localhost:1313/reports/critical-infrastructure-attack-tracker/updates/</loc>
+  </url><url>
     <loc>//localhost:1313/skills/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/reports/critical-infrastructure-attack-tracker/actors/</loc>
   </url>
 </urlset>

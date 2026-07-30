@@ -2,8 +2,6 @@
 title: "Dashboard"
 ---
 
-# CTI Dashboard
-
 ## Overview
 
 The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.

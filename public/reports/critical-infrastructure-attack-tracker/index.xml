@@ -13,8 +13,7 @@
       <link>//localhost:1313/reports/critical-infrastructure-attack-tracker/dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/critical-infrastructure-attack-tracker/dashboard/</guid>
-      <description>&lt;h1 id=&#34;cti-dashboard&#34;&gt;CTI Dashboard&lt;/h1&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;The project includes Power BI dashboards designed to transform collected Cyber Threat Intelligence data into actionable insights.&lt;/p&gt;
 &lt;p&gt;The dashboards analyze relationships between campaigns, threat actors, targeted regions and information operations.&lt;/p&gt;
 &lt;hr&gt;
@@ -38,8 +37,7 @@
       <link>//localhost:1313/reports/critical-infrastructure-attack-tracker/methodology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/critical-infrastructure-attack-tracker/methodology/</guid>
-      <description>&lt;h1 id=&#34;methodology&#34;&gt;Methodology&lt;/h1&gt;
-&lt;h2 id=&#34;data-collection&#34;&gt;Data Collection&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;data-collection&#34;&gt;Data Collection&lt;/h2&gt;
 &lt;p&gt;The project is based on publicly available Cyber Threat Intelligence sources.&lt;/p&gt;
 &lt;p&gt;Information is collected from:&lt;/p&gt;
 &lt;ul&gt;
@@ -71,8 +69,7 @@
       <link>//localhost:1313/reports/critical-infrastructure-attack-tracker/narratives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/critical-infrastructure-attack-tracker/narratives/</guid>
-      <description>&lt;h1 id=&#34;narratives--information-operations&#34;&gt;Narratives &amp;amp; Information Operations&lt;/h1&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;The project tracks narratives and information operations connected with cyber campaigns targeting organizations and critical infrastructure.&lt;/p&gt;
 &lt;p&gt;The objective is to analyze how cyber activity may be supported by coordinated messaging, influence operations or information campaigns.&lt;/p&gt;
 &lt;hr&gt;
@@ -98,8 +95,7 @@
       <link>//localhost:1313/reports/critical-infrastructure-attack-tracker/updates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/critical-infrastructure-attack-tracker/updates/</guid>
-      <description>&lt;h1 id=&#34;research-updates&#34;&gt;Research Updates&lt;/h1&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;This section contains periodic intelligence updates related to the Critical Infrastructure Cyber Attack Tracker.&lt;/p&gt;
 &lt;p&gt;Updates summarize newly collected intelligence, identified campaigns, threat actor activity and emerging trends.&lt;/p&gt;
 &lt;hr&gt;
@@ -126,8 +122,7 @@
       <link>//localhost:1313/reports/critical-infrastructure-attack-tracker/actors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/reports/critical-infrastructure-attack-tracker/actors/</guid>
-      <description>&lt;h1 id=&#34;threat-actor-analysis&#34;&gt;Threat Actor Analysis&lt;/h1&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;The project tracks threat actors associated with cyber campaigns targeting critical infrastructure and organizations across Central and Eastern Europe.&lt;/p&gt;
 &lt;p&gt;The objective is to analyze actor profiles, operational activity and relationships between threat actors and campaigns.&lt;/p&gt;
 &lt;hr&gt;
@@ -143,7 +138,17 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;actor-classification&#34;&gt;Actor Classification&lt;/h1&gt;
-&lt;p&gt;Tracked entities are categorized based on available intelligence:&lt;/p&gt;</description>
+&lt;p&gt;Tracked entities are categorized based on available intelligence:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;state-linked threat actors&lt;/li&gt;
+&lt;li&gt;hacktivist groups&lt;/li&gt;
+&lt;li&gt;cybercriminal groups&lt;/li&gt;
+&lt;li&gt;ransomware-related actors&lt;/li&gt;
+&lt;li&gt;other malicious entities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;activity-tracking&#34;&gt;Activity Tracking&lt;/h1&gt;
+&lt;p&gt;Threat actor activity is analyzed through relationships with:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

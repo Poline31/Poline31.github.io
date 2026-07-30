@@ -16,6 +16,8 @@ pagination:
 
 params:
   env: production
+  defaultTheme: dark
+  disableThemeToggle: false
 
   title: "Poline - Cyber Threat Intelligence"
   description: "Cyber Threat Intelligence, OSINT and Disinformation Analysis"

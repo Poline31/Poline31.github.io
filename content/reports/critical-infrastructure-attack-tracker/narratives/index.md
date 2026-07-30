@@ -2,7 +2,6 @@
 title: "Narratives & Information Operations"
 ---
 
-# Narratives & Information Operations
 
 ## Overview
 

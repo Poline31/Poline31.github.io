@@ -2,7 +2,6 @@
 title: "Methodology"
 ---
 
-# Methodology
 
 ## Data Collection
 
