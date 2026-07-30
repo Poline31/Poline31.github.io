@@ -2,46 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Reports on Poline</title>
-    <link>/reports/</link>
+    <link>//localhost:1313/reports/</link>
     <description>Recent content in Reports on Poline</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/reports/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Critical Infrastructure Cyber Attack Tracker</title>
-      <link>/reports/critical-infrastructure-attack-tracker/</link>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>/reports/critical-infrastructure-attack-tracker/</guid>
-      <description>&lt;h1 id=&#34;critical-infrastructure-cyber-attack-tracker&#34;&gt;Critical Infrastructure Cyber Attack Tracker&lt;/h1&gt;
-&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;This project is a Cyber Threat Intelligence tracker focused on cyber campaigns targeting critical infrastructure across Central and Eastern Europe.&lt;/p&gt;
-&lt;p&gt;The objective is to collect, structure and analyze publicly available intelligence related to cyber attacks, threat actors and information operations.&lt;/p&gt;
-&lt;h2 id=&#34;geographic-scope&#34;&gt;Geographic Scope&lt;/h2&gt;
-&lt;p&gt;Currently tracking activity related to:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Poland&lt;/li&gt;
-&lt;li&gt;Ukraine&lt;/li&gt;
-&lt;li&gt;Lithuania&lt;/li&gt;
-&lt;li&gt;Latvia&lt;/li&gt;
-&lt;li&gt;Estonia&lt;/li&gt;
-&lt;li&gt;Romania&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;research-focus&#34;&gt;Research Focus&lt;/h2&gt;
-&lt;p&gt;The tracker analyzes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;cyber attack campaigns&lt;/li&gt;
-&lt;li&gt;threat actors&lt;/li&gt;
-&lt;li&gt;attack motivation&lt;/li&gt;
-&lt;li&gt;attack techniques&lt;/li&gt;
-&lt;li&gt;targeted industries&lt;/li&gt;
-&lt;li&gt;targeted organizations&lt;/li&gt;
-&lt;li&gt;campaign timelines&lt;/li&gt;
-&lt;li&gt;associated narratives&lt;/li&gt;
-&lt;li&gt;collected artifacts&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;cti-dataset-structure&#34;&gt;CTI Dataset Structure&lt;/h2&gt;
-&lt;p&gt;The project database consists of several interconnected datasets:&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:1313/reports/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

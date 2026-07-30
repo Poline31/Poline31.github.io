@@ -1,42 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Cyber Threat Intelligence on Poline</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content in Cyber Threat Intelligence on Poline</description>
+    <title>Critical Infrastructure Cyber Attack Tracker on Poline</title>
+    <link>//localhost:1313/reports/critical-infrastructure-attack-tracker/</link>
+    <description>Recent content in Critical Infrastructure Cyber Attack Tracker on Poline</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-&lt;p&gt;I am a Cyber Threat Intelligence researcher focused on understanding cyber threats, adversary behavior and emerging attack campaigns.&lt;/p&gt;
-&lt;p&gt;My work combines threat intelligence, OSINT research and security analysis to transform publicly available information into actionable insights.&lt;/p&gt;
-&lt;h2 id=&#34;areas-of-focus&#34;&gt;Areas of Focus&lt;/h2&gt;
-&lt;h3 id=&#34;cyber-threat-intelligence&#34;&gt;Cyber Threat Intelligence&lt;/h3&gt;
-&lt;p&gt;Researching threat actors, cyber campaigns and evolving threat landscapes.&lt;/p&gt;
-&lt;h3 id=&#34;osint-investigations&#34;&gt;OSINT Investigations&lt;/h3&gt;
-&lt;p&gt;Collecting, validating and analyzing information from open sources to identify connections, infrastructure and adversary activity.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>//localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
-      <description>&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;
-&lt;p&gt;Interested in Cyber Threat Intelligence research, OSINT investigations or security analysis?&lt;/p&gt;
-&lt;p&gt;Feel free to contact me.&lt;/p&gt;
-&lt;h2 id=&#34;professional-profiles&#34;&gt;Professional Profiles&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;LinkedIn&lt;/li&gt;
-&lt;li&gt;GitHub&lt;/li&gt;
-&lt;li&gt;Email&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
+    <atom:link href="//localhost:1313/reports/critical-infrastructure-attack-tracker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dashboard</title>
       <link>//localhost:1313/reports/critical-infrastructure-attack-tracker/dashboard/</link>
@@ -149,51 +120,6 @@
 &lt;hr&gt;
 &lt;h1 id=&#34;project-development&#34;&gt;Project Development&lt;/h1&gt;
 &lt;p&gt;Future updates will include:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Skills</title>
-      <link>//localhost:1313/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/skills/</guid>
-      <description>&lt;h1 id=&#34;cyber-security-skills&#34;&gt;Cyber Security Skills&lt;/h1&gt;
-&lt;h2 id=&#34;cyber-threat-intelligence&#34;&gt;Cyber Threat Intelligence&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Threat intelligence research&lt;/li&gt;
-&lt;li&gt;Cyber campaign analysis&lt;/li&gt;
-&lt;li&gt;Threat actor tracking&lt;/li&gt;
-&lt;li&gt;OSINT investigations&lt;/li&gt;
-&lt;li&gt;Intelligence reporting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;malware-analysis&#34;&gt;Malware Analysis&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Malware behavior analysis&lt;/li&gt;
-&lt;li&gt;Static and dynamic analysis&lt;/li&gt;
-&lt;li&gt;IOC extraction&lt;/li&gt;
-&lt;li&gt;Threat hunting support&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;security-operations&#34;&gt;Security Operations&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;SIEM monitoring&lt;/li&gt;
-&lt;li&gt;Detection engineering&lt;/li&gt;
-&lt;li&gt;Log analysis&lt;/li&gt;
-&lt;li&gt;Incident investigation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;frameworks&#34;&gt;Frameworks&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;MITRE ATT&amp;amp;CK&lt;/li&gt;
-&lt;li&gt;Cyber Kill Chain&lt;/li&gt;
-&lt;li&gt;Diamond Model of Intrusion Analysis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Microsoft Sentinel&lt;/li&gt;
-&lt;li&gt;Microsoft Defender&lt;/li&gt;
-&lt;li&gt;Trellix ePO&lt;/li&gt;
-&lt;li&gt;VirusTotal&lt;/li&gt;
-&lt;li&gt;AbuseIPDB&lt;/li&gt;
-&lt;li&gt;Power BI&lt;/li&gt;
-&lt;li&gt;Excel / Power Query&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Threat Actor Analysis</title>

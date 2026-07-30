@@ -146,16 +146,13 @@ Planned improvements:
 
 ![General Dashboard](/images/cti-tracker/general.jpg)
 
-
-## Campaign Intelligence
+## Campaign Analysis
 
 ![Campaign Analysis](/images/cti-tracker/campaigns.jpg)
 
-
-## Threat Actor Intelligence
+## Threat Actor Analysis
 
 ![Actor Analysis](/images/cti-tracker/actors.jpg)
-
 
 ## Information Operations
 
