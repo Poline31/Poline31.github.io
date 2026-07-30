@@ -1,4 +1,4 @@
-﻿baseURL: "https://twoj-login.github.io/"
+﻿baseURL: "https://poline31.github.io/"
 title: "Poline"
 
 defaultContentLanguage: en
@@ -6,8 +6,8 @@ defaultContentLanguageInSubdir: false
 
 languages:
   en:
-    languageName: English
-    languageCode: en-US
+    label: English
+    locale: en-US
 
 theme: PaperMod
 

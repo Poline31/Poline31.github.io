@@ -103,16 +103,3 @@ Collected intelligence is analyzed using Power BI dashboards to identify:
 The tracker is actively maintained and continuously expanded with new intelligence.
 
 ---
-
-# Key Findings
-
-This section summarizes intelligence findings identified during the research process.
-
-Current analysis focuses on:
-
-- changes in cyber campaign activity
-- targeting patterns across countries and industries
-- threat actor behavior
-- relationships between cyber campaigns and information operations
-
-Findings will be updated as the dataset expands and additional intelligence is collected.
