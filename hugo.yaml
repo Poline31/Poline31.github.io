@@ -1,24 +1,63 @@
-﻿baseURL: 'https://poline31.github.io/'
-languageCode: 'en-us'
-title: 'Poline | CTI Portfolio'
+﻿baseURL: "https://twoj-login.github.io/"
+title: "Poline"
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
+languages:
+  en:
+    languageName: English
+    languageCode: en-US
+
+theme: PaperMod
+
+pagination:
+  pagerSize: 5
 
 params:
   env: production
-  author: 'Poline'
-  description: 'Cyber Threat Intelligence Portfolio'
-  
-  profileMode:
-    enabled: true
-    title: 'Cześć, jestem Poline 👋'
-    subtitle: 'Security, Disinformation & OSINT Analyst | Aspiring CTI Professional.<br><br>Uncovering digital threats, tracking threat actors, and transforming raw data into structured, reliable intelligence for strategic defense.<br><br><b>What I Do:</b><br>• Cyber Threat Intelligence (Campaigns, TTPs, Risk)<br>• OSINT & Digital Footprint Investigations<br>• Disinformation Analysis & Narrative Tracking'
-    imageUrl: ""
-    buttons:
-      - name: 'Explore Skills & Tools'
-        url: '#skills'
+
+  title: "Poline - Cyber Threat Intelligence"
+  description: "Cyber Threat Intelligence, OSINT and Disinformation Analysis"
+  author: "Poline"
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+  homeInfoParams:
+    Title: "Cyber Threat Intelligence"
+    Content: |
+      CTI Analyst focused on threat intelligence, OSINT and disinformation analysis.
+
+      Researching threat actors, malware campaigns and cyber influence operations.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/Poline31"
+
+    - name: linkedin
+      url: "https://www.linkedin.com/"
 
 menu:
   main:
-    - identifier: 'home'
-      name: 'Home'
-      url: '/'
-      weight: 1
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+
+    - identifier: reports
+      name: Reports
+      url: /reports/
+      weight: 20
+
+    - identifier: skills
+      name: Skills
+      url: /skills/
+      weight: 30
+
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
