@@ -2,137 +2,83 @@
 title: "Cyber Threat Intelligence"
 ---
 
-# Poline
-
-## Cyber Threat Intelligence Research
+# Cyber Threat Intelligence Research
 
 Tracking threat actors, cyber campaigns and information operations targeting critical infrastructure.
 
-**OSINT | Threat Intelligence | Malware Analysis | Disinformation Research**
+CTI | OSINT | Threat Intelligence | Disinformation Analysis
 
-[View Research](/reports/)
-[About Me](/about/)
+![Critical Infrastructure Cyber Attack Map](/images/cti-tracker/general.jpg)
 
 ---
 
-# Featured Research
+## Featured Research
 
 ## Critical Infrastructure Cyber Attack Tracker
 
-A continuously updated Cyber Threat Intelligence research project focused on cyber campaigns targeting critical infrastructure across Central and Eastern Europe.
+A continuously updated Cyber Threat Intelligence project tracking cyber campaigns targeting critical infrastructure across Central and Eastern Europe.
 
-### Currently tracking:
+The tracker collects and analyzes:
 
-- Poland
-- Ukraine
-- Lithuania
-- Latvia
-- Estonia
-- Romania
-
-### Intelligence collected:
-
-- Cyber campaigns
-- Threat actors
-- Attack techniques
-- Targeted industries
-- Organizations
-- Information operations
-- Campaign narratives
-
-[View Case Study →](/reports/critical-infrastructure-attack-tracker/)
-
----
-
-# Intelligence Dashboard
-
-Power BI based analysis of collected CTI data.
-
-![CTI Dashboard](/images/cti-tracker/general.jpg)
-
-The dashboard provides analysis of:
-
-- campaign activity
-- threat actor operations
-- attack types
-- geographic targeting
-- narratives and information operations
-
-[Explore Full Dashboard →](/reports/critical-infrastructure-attack-tracker/dashboard/)
-
----
-
-# Intelligence Workflow
-
-## 01 — Collection
-
-Gathering intelligence from:
-
-- security reports
-- OSINT sources
-- news outlets
-- public databases
-
-## 02 — Processing
-
-Structuring intelligence data:
-
-- campaigns
 - threat actors
-- indicators
-- narratives
-- relationships
+- cyber campaigns
+- attack techniques
+- targeted industries
+- information operations
+- associated narratives
 
-## 03 — Analysis
-
-Identifying:
-
-- adversary behavior
-- targeting patterns
-- campaign evolution
-- operational trends
-
-## 04 — Visualization
-
-Transforming intelligence into:
-
-- dashboards
-- reports
-- analytical insights
+[Explore Research](/reports/critical-infrastructure-attack-tracker/)
 
 ---
 
-# Skills & Tools
+## Areas of Expertise
 
-## Security
+## 🛡 Cyber Threat Intelligence
 
-- Microsoft Sentinel
-- Microsoft Defender
-- MITRE ATT&CK
+Researching threat actors, campaigns and emerging cyber threats.
 
-## Intelligence
 
-- OSINT
+## 🔎 OSINT Investigations
+
+Collecting and analyzing open-source intelligence.
+
+
+## 🦠 Malware & Attack Analysis
+
+Studying malware behavior, infrastructure and attack patterns.
+
+
+## 🌐 Information Operations
+
+Tracking narratives, influence campaigns and coordinated activity.
+
+
+---
+
+## Skills & Tools
+
+
+**Intelligence**
+
 - VirusTotal
 - Recorded Future
+- OSINT frameworks
 
-## Analytics
+
+**Analytics**
 
 - Power BI
 - Excel
-- Python
+- MITRE ATT&CK
+
 
 ---
 
-# Latest Research
+## Latest Research Updates
 
-Research updates and intelligence notes will be published as the tracker evolves.
+The CTI tracker is continuously expanded with new campaigns, threat actors and intelligence findings.
+
+[View Updates](/reports/critical-infrastructure-attack-tracker/updates/)
+
 
 ---
-
-# Contact
-
-Connect:
-
-- GitHub
-- LinkedIn

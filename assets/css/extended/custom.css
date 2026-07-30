@@ -116,3 +116,187 @@ h4 .anchor {
 .post-content h4 a {
     text-decoration: none;
 }
+
+/* =====================================
+   CTI Typography
+   ===================================== */
+
+/* Global font */
+
+body {
+    font-family: "Inter", "Segoe UI", Arial, sans-serif;
+}
+
+
+/* Main page title */
+
+.first-entry h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+}
+
+
+/* Article titles */
+
+.post-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+}
+
+
+/* Content headings */
+
+.post-content h1 {
+    font-size: 2.2rem;
+    margin-top: 40px;
+}
+
+
+.post-content h2 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-top: 45px;
+}
+
+
+.post-content h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+
+/* Normal text */
+
+.post-content p,
+.post-content li {
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
+
+
+/* Home description */
+
+.first-entry .entry-content {
+    font-size: 1.15rem;
+}
+
+
+/* Menu */
+
+#menu a {
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
+/* =====================================
+   Poline CTI - Heading Scale
+   ===================================== */
+
+/* Main homepage title */
+.first-entry h1 {
+    font-size: 2.4rem;
+}
+
+
+/* Homepage section headings */
+.post-content h1 {
+    font-size: 1.8rem;
+    margin-top: 35px;
+}
+
+
+.post-content h2 {
+    font-size: 1.35rem;
+    margin-top: 35px;
+}
+
+
+.post-content h3 {
+    font-size: 1.15rem;
+}
+
+
+/* Featured Research, Areas of Expertise,
+   Skills & Tools, Latest Research Updates,
+   Contact */
+.post-content h1,
+.post-content h2 {
+    letter-spacing: -0.02em;
+}
+
+
+/* Normal text */
+.post-content p,
+.post-content li {
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+/* =====================================
+   Poline CTI - Unified Typography
+   ===================================== */
+
+/* All headings */
+h1,
+h2,
+h3,
+h4,
+.post-title,
+.entry-hint-parent {
+    font-family: inherit;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+
+/* Homepage main title */
+.first-entry h1 {
+    font-size: 2.2rem;
+}
+
+
+/* Section headings on pages */
+.post-content h1 {
+    font-size: 1.8rem;
+    margin-top: 35px;
+}
+
+
+.post-content h2 {
+    font-size: 1.4rem;
+    margin-top: 30px;
+}
+
+
+.post-content h3 {
+    font-size: 1.2rem;
+}
+
+
+/* Reports list titles */
+.post-entry .entry-header h2,
+.post-entry .entry-header h3 {
+    font-size: 1.35rem;
+}
+
+
+/* Normal text everywhere */
+.post-content,
+.entry-content {
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+
+/* Remove oversized PaperMod titles */
+.page-header h1 {
+    font-size: 1.8rem;
+}
+
+
+/* Menu consistency */
+#menu a {
+    font-size: 0.95rem;
+}

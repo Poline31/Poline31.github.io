@@ -1,5 +1,5 @@
 ﻿baseURL: "https://poline31.github.io/"
-title: "Poline"
+title: "Poline CTI"
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
@@ -19,9 +19,9 @@ params:
   defaultTheme: dark
   disableThemeToggle: false
 
-  title: "Poline - Cyber Threat Intelligence"
+  title: "Poline CTI - Cyber Threat Intelligence"
   description: "Cyber Threat Intelligence, OSINT and Disinformation Analysis"
-  author: "Poline"
+  author: "Poline CTI"
 
   ShowReadingTime: true
   ShowShareButtons: false
