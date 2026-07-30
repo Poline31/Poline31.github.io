@@ -300,3 +300,15 @@ h4,
 #menu a {
     font-size: 0.95rem;
 }
+
+/* Smaller PaperMod home info */
+
+.home-info .entry-header h1 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.home-info .entry-content {
+    font-size: 14px;
+    line-height: 1.5;
+}

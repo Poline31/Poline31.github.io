@@ -4,15 +4,13 @@ title: "Cyber Threat Intelligence"
 
 # Cyber Threat Intelligence Research
 
-Tracking threat actors, cyber campaigns and information operations targeting critical infrastructure.
+Tracking threat actors, cyber campaigns and information operations targeting critical infrastructure since 2026.
 
 CTI | OSINT | Threat Intelligence | Disinformation Analysis
 
 ![Critical Infrastructure Cyber Attack Map](/images/cti-tracker/general.jpg)
 
 ---
-
-## Featured Research
 
 ## Critical Infrastructure Cyber Attack Tracker
 
@@ -37,32 +35,36 @@ The tracker collects and analyzes:
 
 Researching threat actors, campaigns and emerging cyber threats.
 
-
 ## 🔎 OSINT Investigations
 
 Collecting and analyzing open-source intelligence.
-
 
 ## 🦠 Malware & Attack Analysis
 
 Studying malware behavior, infrastructure and attack patterns.
 
-
 ## 🌐 Information Operations
 
 Tracking narratives, influence campaigns and coordinated activity.
-
 
 ---
 
 ## Skills & Tools
 
-
 **Intelligence**
 
 - VirusTotal
-- Recorded Future
+- Recorded Future Free
 - OSINT frameworks
+- Daily CyberSecurity
+- Dragos blog
+- CERT Polska
+- HackerNews
+- TASS.ru
+- Mandiant Free
+- X
+- other
+
 
 
 **Analytics**
@@ -70,7 +72,6 @@ Tracking narratives, influence campaigns and coordinated activity.
 - Power BI
 - Excel
 - MITRE ATT&CK
-
 
 ---
 
