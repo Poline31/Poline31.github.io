@@ -4,7 +4,7 @@ title: "Cyber Threat Intelligence"
 
 # Cyber Threat Intelligence Research
 
-Tracking threat actors, cyber campaigns and information operations targeting critical infrastructure since 2026.
+Tracking threat actors, cyber campaigns and information operations targeting critical infrastructure. Project has started in 2026.
 
 CTI | OSINT | Threat Intelligence | Disinformation Analysis
 
@@ -14,14 +14,14 @@ CTI | OSINT | Threat Intelligence | Disinformation Analysis
 
 ## Critical Infrastructure Cyber Attack Tracker
 
-A continuously updated Cyber Threat Intelligence project tracking cyber campaigns targeting critical infrastructure across Central and Eastern Europe.
+A continuously updated Cyber Threat Intelligence project tracking cyber campaigns targeting critical infrastructure across Eastern Europe.
 
 The tracker collects and analyzes:
 
-- threat actors
+- threat actors and its affiliations, motivation
 - cyber campaigns
-- attack techniques
-- targeted industries
+- attack types
+- targeted industries/governments/organizations
 - information operations
 - associated narratives
 
@@ -64,8 +64,6 @@ Tracking narratives, influence campaigns and coordinated activity.
 - Mandiant Free
 - X
 - other
-
-
 
 **Analytics**
 

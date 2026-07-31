@@ -2,46 +2,113 @@
 title: "About"
 ---
 
-# About Me
 
-I am a Cyber Threat Intelligence researcher focused on understanding cyber threats, adversary behavior and emerging attack campaigns.
+## Welcome
 
-My work combines threat intelligence, OSINT research and security analysis to transform publicly available information into actionable insights.
+Welcome to **Poline CTI** — an independent Cyber Threat Intelligence research project focused on cyber campaigns, information operations and threat activity targeting Central and Eastern Europe.
 
-## Areas of Focus
+The project combines Cyber Threat Intelligence (CTI), Open-Source Intelligence (OSINT) and geopolitical analysis to monitor emerging cyber threats affecting critical infrastructure across the region.
 
-### Cyber Threat Intelligence
+---
 
-Researching threat actors, cyber campaigns and evolving threat landscapes.
+## Professional Background
 
-### OSINT Investigations
+My professional career began in the **Polish Armed Forces**, where I spent six years monitoring propaganda and disinformation campaigns directed against Poland and its Armed Forces.
 
-Collecting, validating and analyzing information from open sources to identify connections, infrastructure and adversary activity.
+During this time, I developed experience in identifying influence operations, evaluating information credibility and analyzing how narratives evolve across different information environments.
 
-### Malware Analysis
+Driven by a long-standing passion for cybersecurity, I later transitioned into the IT industry.
 
-Analyzing malware behavior, indicators of compromise and attack techniques used by threat actors.
+Over the following five years, I worked as a **Security Operations Center (SOC) Analyst**, **Quality Specialist**, and **Tier 1 Coordinator**. These roles strengthened both my technical expertise and my analytical approach to cyber threat detection and incident response.
 
-### Threat Actor Research
+---
 
-Tracking campaigns, tactics, techniques and procedures (TTPs) using intelligence frameworks and security data.
+## Why This Project?
 
-## Research Approach
+Poline CTI was created to combine Cyber Threat Intelligence, OSINT research and geopolitical context within a single structured research platform.
 
-My investigations focus on:
+The objective is not only to collect information but also to identify relationships between cyber campaigns, threat actors, targeted sectors and information operations.
 
-- understanding attacker infrastructure
-- mapping adversary behavior to MITRE ATT&CK
-- analyzing security events and indicators
-- documenting findings in structured intelligence reports
+The project focuses on producing structured, evidence-based intelligence rather than isolated news or incident reports.
+
+---
+
+## Research Methodology
+
+Every investigation follows a structured analytical process:
+
+- Collect intelligence from trusted public sources
+- Validate and correlate information
+- Identify relationships between campaigns and threat actors
+- Track information operations and emerging narratives
+- Document findings using structured CTI datasets
+- Visualize intelligence through Power BI dashboards
+
+---
+
+## Geographic Scope
+
+Current research focuses on cyber activity affecting:
+
+- 🇵🇱 Poland
+- 🇺🇦 Ukraine
+- 🇷🇴 Romania
+- 🇱🇹 Lithuania
+- 🇱🇻 Latvia
+- 🇪🇪 Estonia
+
+---
+
+## Areas of Expertise
+
+### 🛡 Cyber Threat Intelligence
+
+Researching threat actors, cyber campaigns and regional threat activity.
+
+### 🔎 OSINT Investigations
+
+Collecting, validating and correlating publicly available intelligence from multiple sources.
+
+### 🦠 Malware & Campaign Analysis
+
+Analyzing malware, attack techniques, infrastructure and indicators associated with cyber campaigns.
+
+### 🌐 Information Operations
+
+Tracking coordinated narratives, influence campaigns and their relationship with cyber activity.
+
+---
 
 ## Technologies & Tools
 
-- MITRE ATT&CK
+### Threat Intelligence
+
 - VirusTotal
 - Recorded Future
 - AbuseIPDB
+
+### Analytics
+
 - Power BI
 - Excel
 
-I publish research reports covering cyber threats, malware activity, OSINT investigations and security analysis.
+### Research Sources
+
+- Government advisories
+- CERT publications
+- Security vendors
+- Open-source intelligence (OSINT)
+- Russian-language sources
+- X (formerly Twitter)
+
+---
+
+## Languages
+
+- 🇵🇱 Polish (Native)
+- 🇬🇧 English (Professional)
+- 🇷🇺 Russian (Professional)
+
+---
+
+
