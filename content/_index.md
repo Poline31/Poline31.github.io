@@ -1,10 +1,15 @@
 ---
 title: "Cyber Threat Intelligence"
 ---
+## Welcome
+
+Welcome to **Poline CTI** — an independent Cyber Threat Intelligence research project focused on cyber campaigns, information operations and threat activity targeting Central and Eastern Europe.
+The project combines Cyber Threat Intelligence (CTI), Open-Source Intelligence (OSINT) and geopolitical analysis to monitor emerging cyber threats affecting critical infrastructure across the region.
 
 # Cyber Threat Intelligence Research
 
-Tracking threat actors, cyber campaigns and information operations targeting critical infrastructure. Project has started in 2026.
+The project actively monitors campaigns identified from March 2026 onwards. 
+Selected earlier campaigns are included as historical reference cases due to their strategic significance..
 
 CTI | OSINT | Threat Intelligence | Disinformation Analysis
 
