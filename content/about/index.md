@@ -3,14 +3,6 @@ title: "About"
 ---
 
 
-## Welcome
-
-Welcome to **Poline CTI** — an independent Cyber Threat Intelligence research project focused on cyber campaigns, information operations and threat activity targeting Central and Eastern Europe.
-
-The project combines Cyber Threat Intelligence (CTI), Open-Source Intelligence (OSINT) and geopolitical analysis to monitor emerging cyber threats affecting critical infrastructure across the region.
-
----
-
 ## Professional Background
 
 My professional career began in the **Polish Armed Forces**, where I spent six years monitoring propaganda and disinformation campaigns directed against Poland and its Armed Forces.
@@ -61,36 +53,12 @@ Current research focuses on cyber activity affecting:
 
 ## Areas of Expertise
 
-### 🛡 Cyber Threat Intelligence
-
-Researching threat actors, cyber campaigns and regional threat activity.
-
-### 🔎 OSINT Investigations
-
-Collecting, validating and correlating publicly available intelligence from multiple sources.
-
-### 🦠 Malware & Campaign Analysis
-
-Analyzing malware, attack techniques, infrastructure and indicators associated with cyber campaigns.
-
-### 🌐 Information Operations
-
-Tracking coordinated narratives, influence campaigns and their relationship with cyber activity.
+- Researching threat actors, cyber campaigns and regional threat activity.
+- Collecting, validating and correlating publicly available intelligence from multiple sources.
+- Analyzing malware types, attack types, and indicators associated with cyber campaigns.
+- Tracking coordinated narratives, influence campaigns and their possible relationship with cyber activity.
 
 ---
-
-## Technologies & Tools
-
-### Threat Intelligence
-
-- VirusTotal
-- Recorded Future
-- AbuseIPDB
-
-### Analytics
-
-- Power BI
-- Excel
 
 ### Research Sources
 
@@ -105,10 +73,22 @@ Tracking coordinated narratives, influence campaigns and their relationship with
 
 ## Languages
 
-- 🇵🇱 Polish (Native)
-- 🇬🇧 English (Professional)
-- 🇷🇺 Russian (Professional)
+- 🇵🇱 Polish
+- 🇬🇧 English
+- 🇷🇺 Russian
 
 ---
 
+## Certificates
 
+- Blue Team Level 1 (BTL1)
+- Comptia Security+
+- ITIL Foundation Certificate in IT Service Management
+- STANAG 6001 3333 English
+- STANAG 6001 4444 Russian
+
+## Connect
+
+I welcome discussions related to Cyber Threat Intelligence, OSINT and cyber defence.
+
+- LinkedIn: https://www.linkedin.com/in/paulina-w-670151244/
