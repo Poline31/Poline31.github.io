@@ -48,12 +48,12 @@ menu:
       url: /about/
       weight: 10
 
-    - identifier: reports
-      name: Reports
-      url: /reports/
+    - identifier: methodology
+      name: Methodology
+      url: /methodology/
       weight: 20
 
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 40
+    - identifier: reports
+      name: Intelligence Reports
+      url: /reports/
+      weight: 30
