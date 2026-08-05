@@ -5,7 +5,7 @@ title: "About"
 
 ## Professional Background
 
-My professional career began in the **Polish Armed Forces**, where I spent six years monitoring propaganda and disinformation campaigns directed against Poland and its Armed Forces.
+My professional career began in the **Polish Armed Forces**, where I spent six years monitoring disinformation campaigns directed against Poland and its Armed Forces.
 
 During this time, I developed experience in identifying influence operations, evaluating information credibility and analyzing how narratives evolve across different information environments.
 

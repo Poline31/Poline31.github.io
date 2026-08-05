@@ -1,88 +1,48 @@
 ---
 title: "Cyber Threat Intelligence"
 ---
-## Welcome
 
-Welcome to **Poline CTI** — an independent Cyber Threat Intelligence research project focused on cyber campaigns, information operations and threat activity targeting Central and Eastern Europe.
-The project combines Cyber Threat Intelligence (CTI), Open-Source Intelligence (OSINT) and geopolitical analysis to monitor emerging cyber threats affecting critical infrastructure across the region.
+# Poline CTI
 
-# Cyber Threat Intelligence Research
+Independent Cyber Threat Intelligence research project focused on monitoring cyber campaigns, threat actors and information operations targeting Central and Eastern Europe.
 
-The project actively monitors campaigns identified from March 2026 onwards. 
-Selected earlier campaigns are included as historical reference cases due to their strategic significance..
-
-CTI | OSINT | Threat Intelligence | Disinformation Analysis
+The project combines CTI, OSINT and data analysis to track emerging cyber threats affecting strategic sectors and critical infrastructure.
 
 ![Critical Infrastructure Cyber Attack Map](/images/cti-tracker/general.jpg)
 
 ---
 
-## Critical Infrastructure Cyber Attack Tracker
+## Research Project
 
-A continuously updated Cyber Threat Intelligence project tracking cyber campaigns targeting critical infrastructure across Eastern Europe.
+### Critical Infrastructure Cyber Attack Tracker
 
-The tracker collects and analyzes:
+A continuously updated CTI dataset tracking:
 
-- threat actors and its affiliations, motivation
 - cyber campaigns
-- attack types
-- targeted industries/governments/organizations
-- information operations
-- associated narratives
+- threat actors
+- targeted sectors
+- attack patterns
+- information operations & geopolitical context
 
-[Explore Research](/reports/critical-infrastructure-attack-tracker/)
+The project uses structured intelligence collection and analytical reporting to identify trends and emerging threats.
 
----
-
-## Areas of Expertise
-
-## 🛡 Cyber Threat Intelligence
-
-Researching threat actors, campaigns and emerging cyber threats.
-
-## 🔎 OSINT Investigations
-
-Collecting and analyzing open-source intelligence.
-
-## 🦠 Malware & Attack Analysis
-
-Studying malware behavior, infrastructure and attack patterns.
-
-## 🌐 Information Operations
-
-Tracking narratives, influence campaigns and coordinated activity.
+[Explore Intelligence Reports](/reports/)
 
 ---
 
-## Skills & Tools
+## Research Focus
 
-**Intelligence**
-
-- VirusTotal
-- Recorded Future Free
-- OSINT frameworks
-- Daily CyberSecurity
-- Dragos blog
-- CERT Polska
-- HackerNews
-- TASS.ru
-- Mandiant Free
-- X
-- other
-
-**Analytics**
-
-- Power BI
-- Excel
-- MITRE ATT&CK
+- Cyber Threat Intelligence
+- OSINT Investigations
+- Threat Actor Analysis
+- Information Operations
+- Critical Infrastructure Security
 
 ---
 
-## Latest Research Updates
+## Project Information
 
-The CTI tracker is continuously expanded with new campaigns, threat actors and intelligence findings.
+Learn more about:
 
-[View Updates](/reports/critical-infrastructure-attack-tracker/updates/)
-
-
----
+[About](/about/) — background and technical expertise  
+[Methodology](/methodology/) — research process and data model
