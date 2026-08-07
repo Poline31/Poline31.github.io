@@ -8,6 +8,7 @@ languages:
   en:
     label: English
     locale: en-US
+    weight: 1
 
 theme: PaperMod
 
@@ -19,7 +20,6 @@ params:
   defaultTheme: dark
   disableThemeToggle: false
 
-  title: "Poline CTI - Cyber Threat Intelligence"
   description: "Cyber Threat Intelligence, OSINT and Disinformation Analysis"
   author: "Poline CTI"
 
@@ -28,18 +28,19 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
 
+  # Hide reports from homepage
+  mainSections:
+    - posts
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/"
+
   homeInfoParams:
     Title: "Cyber Threat Intelligence"
     Content: |
       CTI Analyst focused on threat intelligence, OSINT and disinformation analysis.
-      Researching threat actors, malware campaigns and cyber influence operations.
-
-  socialIcons:
-    - name: github
-      url: "https://github.com/Poline31"
-
-    - name: linkedin
-      url: "https://www.linkedin.com/"
+      Researching threat actors, incidents and cyber influence operations.
 
 menu:
   main:

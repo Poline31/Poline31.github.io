@@ -19,9 +19,9 @@ Over the following five years, I worked as a **Security Operations Center (SOC) 
 
 Poline CTI was created to combine Cyber Threat Intelligence, OSINT research and geopolitical context within a single structured research platform.
 
-The objective is not only to collect information but also to identify relationships between cyber campaigns, threat actors, targeted sectors and information operations.
+The objective is not only to collect information but also to identify relationships between incidents, threat actors, targeted sectors and information operations.
 
-The project focuses on producing structured, evidence-based intelligence rather than isolated news or incident reports.
+The project focuses on producing structured, evidence-based intelligence model rather than isolated news or incident reports.
 
 ---
 
@@ -29,9 +29,9 @@ The project focuses on producing structured, evidence-based intelligence rather 
 
 Every investigation follows a structured analytical process:
 
-- Collect intelligence from trusted public sources
+- Collect intelligence from public sources
 - Validate and correlate information
-- Identify relationships between campaigns and threat actors
+- Identify relationships between incidents and threat actors
 - Track information operations and emerging narratives
 - Document findings using structured CTI datasets
 - Visualize intelligence through Power BI dashboards
@@ -53,7 +53,7 @@ Current research focuses on cyber activity affecting:
 
 ## Areas of Expertise
 
-- Researching threat actors, cyber campaigns and regional threat activity.
+- Researching threat actors, cyber incidents and regional threat activity.
 - Collecting, validating and correlating publicly available intelligence from multiple sources.
 - Analyzing malware types, attack types, and indicators associated with cyber campaigns.
 - Tracking coordinated narratives, influence campaigns and their possible relationship with cyber activity.

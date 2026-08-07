@@ -1,9 +1,10 @@
 ---
 title: "Methodology"
 ---
+
 ## Project Scope
 
-This project focuses on monitoring cyber campaigns, threat actors and information operations targeting Eastern Europe.
+This project focuses on monitoring cyber incidents, threat actors and information operations targeting Eastern Europe.
 
 The current geographic focus includes:
 
@@ -19,7 +20,7 @@ The analysis focuses on:
 - strategic industries
 - information operations
 
-The project tracks both cyber activity and related influence operations when they are connected to identified campaigns or threat actors.
+The project tracks both cyber activity and related influence operations when they are connected to identified incidents or threat actors.
 
 ## Data Collection
 
@@ -37,59 +38,60 @@ Information is collected from:
 ## Data Model
 
 The tracker uses a structured CTI database approach.
-It is created in Excel and transfered to Power Bi for creating dashboards and reaching conclusions.
 
-Each campaign is analyzed using multiple dimensions:
+It is created in Excel and transferred to Power BI for creating dashboards and reaching conclusions.
 
-### Campaign / Artifacts / Actors / Narratives / Key events
+Each incident is analyzed using multiple dimensions:
 
-### Campaign
+### Incident / Artifacts / Actors / Narratives / Key Events
 
-- Campaign_ID	
-- Campaign	
-- Attack_motivation	
-- Data_start	
-- Data_end	
-- Description	
-- Actor_ID	
-- Actor	
-- Attack_type	
-- Source	
-- Target_Industry	
-- Target_Region		
-- Target_Organization	
-- Consequences	
+### Incident
+
+- Incident_ID
+- Incident
+- Attack_motivation
+- Data_start
+- Data_end
+- Description
+- Actor_ID
+- Actor
+- Attack_type
 - Source
+- Target_Industry
+- Target_Region
+- Target_Organization
+- Consequences
 
 ### Artifacts
 
-- Campaign ID
-- Campaign
+- Incident_ID
+- Incident
 - Artifacts
 - Artifact_Type
 
 ### Narratives
 
-- Narrative_ID	
-- Account	Narrative	
-- Narrative_type	
-- Date	
-- Source	
-- Language	
-- Tag	
-- Target_audience	
+- Narrative_ID
+- Account
+- Narrative
+- Narrative_type
+- Date
+- Source
+- Language
+- Tag
+- Target_audience
 
-### Key events
+### Key Events
 
-- Event_ID	
-- What happended/Event	
-- When	
-- Source	
+- Event_ID
+- What_happened/Event
+- When
+- Source
 - News_type
 
-## Campaign Classification
+## Incident Classification
 
-Each identified campaign is classified using own several analytical categories called Dictionary.
+Each identified incident is classified using several analytical categories defined in the project's dictionary.
 
 ### Attack Type
 
@@ -99,10 +101,10 @@ Examples:
 - Ransomware
 - Wiper
 - Supply Chain
-- credential misuse/abuse
-- initial access / phishing
-- credential theft
-- exploitation of public-facing vulnerability
+- Credential misuse/abuse
+- Initial access / phishing
+- Credential theft
+- Exploitation of public-facing vulnerability
 
 ### Target Industry
 
@@ -120,11 +122,11 @@ Examples:
 
 Examples:
 
-- espionage
-- financial gain
-- disruption
-- hacktivism
-- destruction
+- Espionage
+- Financial gain
+- Disruption
+- Hacktivism
+- Destruction
 - Sabotage
 - Unknown
 
@@ -141,7 +143,7 @@ Each entry is reviewed and linked to available sources to maintain traceability 
 
 ## Limitations
 
-This project is based on publicly available information and it is private. 
+This project is based on publicly available information and is a private research project.
 
 Some cyber activities may remain unidentified due to:
 
