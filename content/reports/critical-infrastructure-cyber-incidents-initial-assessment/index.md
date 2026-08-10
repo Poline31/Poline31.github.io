@@ -130,7 +130,7 @@ These classifications are intended for the purposes of this project and do not r
 
 The dashboard below presents the distribution of incident characteristics associated with the seven identified threat actors.
 
-![Incident characteristics by threat actor](/images/actors-activity-per-incident.jpg)
+![Incident characteristics by threat actor](/images/incident-type-per-campaign.jpg)
 *Figure 5. Distribution of operational characteristics observed across incidents associated with identified threat actors.*
 
 ---
