@@ -21,7 +21,7 @@ Poline CTI was created to combine Cyber Threat Intelligence, OSINT research and 
 
 The objective is not only to collect information but also to identify relationships between incidents, threat actors, targeted sectors and information operations.
 
-The project focuses on producing structured, evidence-based intelligence model rather than isolated news or incident reports.
+The project demonstrates my approach to structuring, analysing, and connecting data.
 
 ---
 
@@ -55,7 +55,7 @@ Current research focuses on cyber activity affecting:
 
 - Researching threat actors, cyber incidents and regional threat activity.
 - Collecting, validating and correlating publicly available intelligence from multiple sources.
-- Analyzing malware types, attack types, and indicators associated with cyber campaigns.
+- Analyzing technical artefacts and attack types/indicators associated with cyber campaigns.
 - Tracking coordinated narratives, influence campaigns and their possible relationship with cyber activity.
 
 ---

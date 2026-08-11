@@ -2,7 +2,7 @@
 title: "Critical Infrastructure Cyber Incidents - Initial Assessment"
 date: 2026-08-07
 draft: false
-description: "Initial assessment of cyber incidents affecting critical infrastructure and strategically important organisations across Eastern Europe."
+description: "Initial assessment of cyber incidents targeting critical infrastructure and strategically important organisations across Eastern Europe."
 
 tags:
   - Cyber Threat Intelligence
@@ -13,16 +13,16 @@ tags:
   - OSINT
 
 categories:
-  - Intelligence Reports
+  - Publications
 ---
 
 # Executive Summary
 
-The **Critical Infrastructure Cyber Attack Tracker** is an ongoing monitoring project focused on documented cyber incidents affecting critical infrastructure and strategically important organisations across Eastern Europe.
+The **Critical Infrastructure Cyber Attack Tracker** is an ongoing monitoring project focused on documented cyber incidents targeting critical infrastructure and strategically important organisations across Eastern Europe.
 
-Monitoring for the current dataset began in June 2026. The dataset primarily covers incidents identified between January and August 2026. One additional incident targeting Poland's power system in December 2025 was retained as a historical reference due to its strategic relevance.
+Monitoring for the current dataset began in June 2026. The dataset primarily covers incidents identified between January and August 2026. One additional incident targeting Poland's power system in December 2025 was included as a historical reference due to its strategic relevance.
 
-The objective of the project is not to provide a comprehensive record of all cyber activity in the region, but to develop a structured intelligence dataset that can be used to identify recurring patterns in threat actor activity, targeting, operational characteristics, malware-related artefacts, sectors and geographic distribution.
+The objective of the project is not to provide a comprehensive record of all cyber activity in the region, but to develop an intelligence dataset that can be used to identify patterns in threat actor activity, targeting, operational characteristics, technical artefacts, sectors and geographic distribution.
 
 At the current stage, the dataset contains **13 documented incidents associated with seven threat actors**. Although the dataset remains limited in size, it provides an initial baseline for analysing the regional threat landscape and demonstrates how structured CTI data can support further analytical work.
 
@@ -30,7 +30,7 @@ At the current stage, the dataset contains **13 documented incidents associated 
 
 # Key Findings
 
-- **13 cyber incidents** affecting critical infrastructure and strategically important organisations were identified between January and August 2026.
+- **13 cyber incidents** targeting critical infrastructure and strategically important organisations were identified between January and August 2026.
 
 - The dataset currently contains activity associated with **seven threat actors**, including established state-sponsored groups and more recently observed actors.
 
@@ -50,7 +50,7 @@ At the current stage, the dataset contains **13 documented incidents associated 
 
 # Regional Threat Landscape
 
-The geographic distribution of incidents in the dataset reflects the broader security environment in Eastern Europe.
+The dataset shows how cyber incidents were distributed across Eastern Europe.
 
 Ukraine represents the most frequently observed target country, followed by Poland, Romania and Lithuania.
 
@@ -59,17 +59,17 @@ Ukraine represents the most frequently observed target country, followed by Pola
 
 This concentration is consistent with the strategic importance of the region and the continuing impact of the war in Ukraine on the regional cyber threat environment.
 
-However, the dataset should not be interpreted as a measurement of the absolute volume of cyber activity in individual countries. The number of incidents recorded is influenced by several factors, including:
+However, the dataset does not show the total amount of cyber activity in each country. The number of recorded incidents depends on several factors, including:
 
 - availability of public reporting,
 - source coverage,
 - inclusion criteria used for the tracker.
 
-At the current stage of the project, the dataset contains insufficient observations for Latvia and Estonia. These countries therefore remain underrepresented in the current analysis.
+At the current stage of the project, no incidents from Latvia or Estonia are currently included in the dataset.
 
-As monitoring continues, additional incidents will be incorporated into the dataset. This should allow geographic distribution and differences between target countries to be assessed with greater confidence.
+As monitoring continues, more incidents will be added to the dataset. This will provide a better basis for comparing cyber activity across different countries.
 
-It should also be noted that a single incident may involve more than one country or organisation. Consequently, country-level counts represent recorded targeting assignments rather than necessarily representing an equal number of unique incidents.
+A single incident may involve more than one country or organisation. Therefore, the country counts do not always represent separate incidents.
 
 # Threat Actor Landscape
 
@@ -101,30 +101,28 @@ The dashboard represents recorded target regions, rather than the total operatio
 
 ---
 
-# Threat Actor Longevity
+# Threat Actor Timeline
 
 Another useful analytical dimension is the estimated year in which each threat actor first became publicly associated with cyber activity.
 
 The dataset includes actors with significantly different operational histories.
 
-APT28 is the oldest actor represented, with publicly reported activity dating back to approximately 2003.
+APT28 is the oldest actor represented. Public sources have reported activity dating back to 2003.
 
 ![Threat actor activity timeline](/images/threat-groups-active-since.jpg)
 *Figure 4. Estimated year of first publicly reported activity associated with threat actors represented in the dataset.*
 
 The presence of both long-established and more recently observed actors illustrates the changing composition of the regional cyber threat landscape.
 
-The emergence of actors such as UAC-0226 and Qilin in the dataset occurs within the broader context of the evolving cyber environment associated with the war in Ukraine.
-
-This temporal relationship should not be interpreted as evidence of causation.
+Actors such as UAC-0226 and Qilin appear in the dataset during the ongoing war in Ukraine. However, this does not mean that the war caused their activity.
 
 # Incident Characteristics
 
 The relationship between threat actors and the operational characteristics observed in individual incidents provides another analytical dimension of the tracker.
 
-Rather than treating these characteristics as formal campaign classifications, the dataset records the operational characteristics of individual incidents based on the available reporting.
+Rather than treating these characteristics as formal incident classifications, the dataset records the operational characteristics of individual incidents based on the available reporting and analyst judgement.
 
-The classifications used in this project were developed specifically to provide a consistent analytical framework across the collected dataset. They are based on publicly available intelligence (OSINT), analytical judgement and AI-assisted classification.
+The classifications used in this project were developed specifically to provide a consistent framework across the collected dataset. They are based on publicly available intelligence (OSINT) and AI-assisted data classification. Final classifications were subject to analyst review.
 
 These classifications are intended for the purposes of this project and do not represent an official industry standard.
 
@@ -156,7 +154,7 @@ The purpose of this analysis is to demonstrate how the underlying data model can
 
 # Malware and Technical Artefacts
 
-The collected intelligence also enables analysis of the relationship between threat actors and malware-related artefacts.
+The collected intelligence also enables analysis of the relationship between threat actors and technical artefacts.
 
 The current dataset includes references to a range of technical artefacts, including:
 
@@ -165,37 +163,33 @@ The current dataset includes references to a range of technical artefacts, inclu
 - backdoors,
 - stealers.
 
-Within the current dataset, APT28 demonstrates the broadest distribution of malware-related artefacts.
+Within the current dataset, APT28 demonstrates the broadest distribution of various artefacts.
 
 ![Technical artefact categories](/images/artifact-type.jpg)
 *Figure 7. Distribution of technical artefact categories identified across analysed incidents.*
 
-This may indicate a comparatively diverse operational toolkit, although the limited dataset does not allow this observation to be generalised to the actor's overall capabilities.
+This may indicate a more diverse toolkit, but the current dataset is too limited to draw conclusions about the actor's overall capabilities.
 
-For the purposes of this public report, the complete list of malware is not presented but it is available.
+For the purposes of this public report, the complete list of technical artefacts is not presented but it is available. They were aggregated into broader categories.
 
-The underlying tracker is instead structured to allow relationships between threat actors, incidents and technical artefacts to be explored interactively.
-
-For this report, malware information has therefore been aggregated into broader categories to provide analytical context without reproducing the full technical inventory.
+The tracker allows relationships between threat actors, incidents, and technical artefacts to be explored.
 
 ---
 
 # Operational Motivation
 
-Where the available sources provided information about attacker motivation, this information was incorporated into the dataset.
+When sources provided information about attacker motivation, it was added to the dataset.
 
 Based on the currently available observations, espionage represents the most frequently identified motivation.
 
 ![Threat actor operational motivation analysis](/images/actors-motivation.jpg)
 *Figure 8. Operational motivations identified across incidents where sufficient reporting enabled assessment.*
 
-This finding is consistent with the high representation of government and defence targets within the dataset and with the activity associated with established state-sponsored or state-aligned actors.
+This finding is consistent with the highest representation of government and defence targets within the dataset and with the activity associated with established state-sponsored or state-aligned actors.
 
-However, attribution of motivation is dependent on the quality and specificity of the underlying sources.
+However, this depends on the available sources. If the motivation was not clear, it was not assumed based on the target or technical details of the incident.
 
-Where motivation could not be reliably established, it should not be inferred solely from the target sector or technical characteristics of an incident.
-
-The current findings therefore indicate a strong espionage-oriented pattern within the analysed dataset, rather than demonstrating that espionage is the motivation behind all cyber incidents affecting critical infrastructure in Eastern Europe.
+The current findings therefore indicate a strong espionage-oriented pattern within the analysed dataset, rather than demonstrating that espionage is the motivation behind all cyber incidents targeting critical infrastructure in Eastern Europe.
 
 As the monitoring project expands, additional observations will make it possible to determine whether this pattern remains consistent over time.
 
@@ -229,7 +223,7 @@ Other represented sectors include:
 
 **Important note:** a single incident may involve more than one target sector.
 
-Consequently, the percentages above represent sector assignments within the dataset, rather than the percentage of unique incidents.
+Therefore, these percentages show sector assignments, not the percentage of individual incidents.
 
 A multi-sector incident can therefore contribute to more than one category.
 
@@ -237,28 +231,30 @@ A multi-sector incident can therefore contribute to more than one category.
 
 # Intelligence Assessment
 
-The initial findings suggest that cyber operations targeting critical infrastructure across Eastern Europe remain primarily espionage-driven and are concentrated against strategically important states, particularly Ukraine.
+The initial findings indicate that espionage was the most frequently identified motivation in the current dataset. Many of the incidents involved strategically important states, particularly Ukraine.
 
-The observed activity is dominated by established threat actors such as APT28 and Ghostwriter, indicating that long-standing state-sponsored cyber operations continue to shape the regional threat landscape.
+This suggests that espionage-oriented activity is an important feature of the observed threat landscape.
+
+The observed activity includes established state-aligned actors such as APT28 and Ghostwriter. These actors continue to play an important role in the regional threat landscape.
 
 It should be noted that the current dataset represents only a small subset of cyber incidents affecting Eastern Europe and should not be interpreted as a comprehensive picture of all regional cyber activity.
 
 Nevertheless, even this limited dataset reveals recurring operational patterns and emerging trends in threat actor behaviour, targeting priorities, and threat characteristics.
 
-As the project represents the initial stage of a long-term monitoring initiative, the findings presented in this report should be considered a baseline for future analysis rather than definitive conclusions.
+As the project represents the initial stage, the findings presented in this report should be considered a baseline for future analysis rather than definitive conclusions.
 
-The primary objective of this report is to introduce the project, present the first analytical observations, and demonstrate the capabilities of the underlying intelligence data model.
+The primary objective of this report is to introduce the project, present the first observations, and demonstrate the capabilities of the underlying data model.
 
 The tracker has been designed to support flexible analysis across multiple dimensions, including:
 
 - incidents,
 - threat actors,
-- malware,
+- artefacts,
 - target sectors,
 - geographical regions,
 - operational motivations.
 
-The model has the potential to support:
+The model is designed to potentially support:
 
 - Cyber Threat Intelligence (CTI),
 - Security Operations Centers (SOC),
@@ -266,4 +262,4 @@ The model has the potential to support:
 - Threat Hunting,
 - strategic cyber risk assessment.
 
-As additional intelligence is collected, future reports will provide progressively deeper insight into the evolving cyber threat landscape across Eastern Europe.
+As additional intelligence is collected, future reports will provide deeper insight into the evolving cyber threat landscape across Eastern Europe.

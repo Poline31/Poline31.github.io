@@ -2,7 +2,7 @@
 title: "Cyber Threat Intelligence"
 ---
 
-# Poline CTI
+# Welcome to Poline CTI
 
 Independent Cyber Threat Intelligence research project focused on monitoring cyber incidents, threat actors and information operations targeting Eastern Europe.
 

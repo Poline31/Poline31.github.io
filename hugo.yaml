@@ -54,7 +54,7 @@ menu:
       url: /methodology/
       weight: 20
 
-    - identifier: reports
-      name: Intelligence Reports
-      url: /reports/
+    - identifier: publications
+      name: Publications
+      url: /publications/
       weight: 30
