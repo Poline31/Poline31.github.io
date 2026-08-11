@@ -9,7 +9,7 @@ Independent Cyber Threat Intelligence research project focused on monitoring cyb
 The project combines CTI, OSINT and data analysis to track emerging cyber threats affecting strategic sectors and critical infrastructure.
 
 The monitoring process was launched in June 2026, with retrospective analysis covering cyber threats identified since January 2026.
-![Critical Infrastructure Cyber Attack Map](/images/general-dashboard.jpg)
+
 
 ---
 
@@ -27,7 +27,7 @@ A continuously updated CTI dataset tracking:
 
 The project uses structured intelligence collection and analytical reporting to identify trends and emerging threats.
 
-[Explore Intelligence Reports](/reports/)
+[Explore Publications](/publications/)
 
 ---
 
@@ -45,5 +45,5 @@ The project uses structured intelligence collection and analytical reporting to 
 
 Learn more about:
 
-[About](/about/) — background and technical expertise  
+[About](/about/) — background and technical expertise
 [Methodology](/methodology/) — research process and data model
