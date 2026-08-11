@@ -34,12 +34,12 @@ params:
 
   socialIcons:
     - name: linkedin
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/paulina-w-670151244/"
 
   homeInfoParams:
     Title: "Cyber Threat Intelligence"
     Content: |
-      CTI Analyst focused on threat intelligence, OSINT and disinformation analysis.
+      SOC Analyst focused on threat intelligence, OSINT and disinformation analysis.
       Researching threat actors, incidents and cyber influence operations.
 
 menu:

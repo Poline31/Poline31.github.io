@@ -91,4 +91,4 @@ Current research focuses on cyber activity affecting:
 
 I welcome discussions related to Cyber Threat Intelligence, OSINT and cyber defence.
 
-- LinkedIn: https://www.linkedin.com/in/paulina-w-670151244/
+[LinkedIn](https://www.linkedin.com/in/paulina-w-670151244/)
