@@ -53,14 +53,20 @@ Each identified incident is classified using several analytical categories defin
 
 Examples:
 
-- DDoS
+- Phishing
+- Exploitation of Public-Facing Vulnerability
 - Ransomware
-- Wiper
+- DDoS
+- Malware Deployment
+- Cyber Espionage
+- Credential Theft
+- Data Theft
+- Destructive Attack
 - Supply Chain
-- Credential misuse/abuse
-- Initial access / phishing
-- Credential theft
-- Exploitation of public-facing vulnerability
+- BEC / Financial Fraud
+- Hacktivism
+- Information Operations
+- Insider Threat
 
 ### Target Industry
 
@@ -72,6 +78,7 @@ Examples:
 - Government
 - Telecom
 - Defense
+- Healthcare
 - Unknown
 
 ### Attack Motivation
