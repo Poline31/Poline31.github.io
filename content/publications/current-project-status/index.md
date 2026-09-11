@@ -50,5 +50,5 @@ Its particular timeframe and combination of industries that I chose.
 
 I am curious about the results of regular monitoring.
 
-![Actors_per_region](/images/Actors_per_region.jpg)
+![Actors-per-region](/images/Actors_per_region.jpg)
 *Figure 2. Actors activity across observed countries and related to critical infrastructure.

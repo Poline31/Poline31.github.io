@@ -312,3 +312,37 @@ h4,
     font-size: 14px;
     line-height: 1.5;
 }
+
+/* =====================================
+   Poline CTI - Compact Publications List
+   ===================================== */
+
+.post-entry {
+    padding: 18px 24px;
+    margin-bottom: 12px;
+    border-radius: 10px;
+}
+
+/* Article title */
+.post-entry .entry-header h2 {
+    font-size: 1.2rem;
+    margin: 0;
+    line-height: 1.4;
+}
+
+/* Hide article summary */
+.post-entry .entry-content {
+    display: none;
+}
+
+/* Date and reading time */
+.post-entry .entry-footer {
+    margin-top: 7px;
+    font-size: 0.82rem;
+    opacity: 0.7;
+}
+
+/* Make the whole entry feel lighter */
+.post-entry:hover {
+    transform: none;
+}
