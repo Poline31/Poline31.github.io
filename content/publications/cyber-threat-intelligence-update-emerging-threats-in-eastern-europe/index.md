@@ -31,11 +31,11 @@ One important note is that I have the first case reported in Latvia where hacker
 
 My data has slightly changed as I continue to improve my dashboard and workflow.
 
-![Actors-per-region](/images/dashboard11.09.2026.jpg)
+![dashboard](/images/dashboard11.09.2026.jpg)
 
 The incident focus and the type of data analyzed have led me to one conclusion: government is the most targeted industry so far.
 
-![Actors-per-region](/images/industries11.09.2026.jpg)
+![industries](/images/industries11.09.2026.jpg)
 
 My next goal is to write a report about APT28 based on the incidents data I have gathered. I would also like to show some interesting narratives types that are spreading in social media right now, at a time when cyber and hybrid activity is very high. And it is disturbing.
 
