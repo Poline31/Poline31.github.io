@@ -43,51 +43,7 @@ It is created in Excel and transferred to Power BI for creating dashboards and r
 
 Each incident is analyzed using multiple dimensions:
 
-### Incident / Artifacts / Actors / Narratives / Key Events
-
-### Incident
-
-- Incident_ID
-- Incident
-- Attack_motivation
-- Data_start
-- Data_end
-- Description
-- Actor_ID
-- Actor
-- Attack_type
-- Source
-- Target_Industry
-- Target_Region
-- Target_Organization
-- Consequences
-
-### Artifacts
-
-- Incident_ID
-- Incident
-- Artifacts
-- Artifact_Type
-
-### Narratives
-
-- Narrative_ID
-- Account
-- Narrative
-- Narrative_type
-- Date
-- Source
-- Language
-- Tag
-- Target_audience
-
-### Key Events
-
-- Event_ID
-- What_happened/Event
-- When
-- Source
-- News_type
+![Data_Model](/images/CTI_Relational_Data_Model.jpg)
 
 ## Incident Classification
 

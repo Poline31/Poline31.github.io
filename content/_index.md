@@ -5,12 +5,11 @@ title: "Cyber Threat Intelligence"
 # Welcome to Poline CTI
 
 Independent Cyber Threat Intelligence research project focused on monitoring cyber incidents, threat actors and information operations targeting Eastern Europe.
-
 The project combines CTI, OSINT and data analysis to track emerging cyber threats affecting strategic sectors and critical infrastructure.
-
 The monitoring process was launched in June 2026, with retrospective analysis covering cyber threats identified since January 2026.
+Data is collected and structured into a relational data model in Excel and Power BI, enabling the creation of interactive dashboards and visualizations.
 
-
+![relational-model](/images/incident_centric_cti_data_model.jpg)
 ---
 
 ## Research Project
